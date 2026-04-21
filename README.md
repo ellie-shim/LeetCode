@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ellie-shim/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0055-jump-game](https://github.com/ellie-shim/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/ellie-shim/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ellie-shim/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/ellie-shim/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/ellie-shim/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
