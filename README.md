@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ellie-shim/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ellie-shim/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/ellie-shim/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/ellie-shim/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/ellie-shim/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ellie-shim/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ellie-shim/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ellie-shim/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/ellie-shim/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [1025-divisor-game](https://github.com/ellie-shim/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
