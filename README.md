@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ellie-shim/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/ellie-shim/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/ellie-shim/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/ellie-shim/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/ellie-shim/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1025-divisor-game](https://github.com/ellie-shim/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
